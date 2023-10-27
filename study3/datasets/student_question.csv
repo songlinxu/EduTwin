@@ -1,0 +1,425 @@
+exp_id	course_name	test_type	question_id	question_content	choice_id	choice_content
+1	star	pre	1	How is it possible to determine the temperature of a star?	1	By its color
+1	star	pre	1	How is it possible to determine the temperature of a star?	2	By its size
+1	star	pre	1	How is it possible to determine the temperature of a star?	3	By its shape
+1	star	pre	1	How is it possible to determine the temperature of a star?	4	All options are correct
+1	star	pre	2	What are stars made of?	1	Gas
+1	star	pre	2	What are stars made of?	2	Dust
+1	star	pre	2	What are stars made of?	3	Meteorites
+1	star	pre	2	What are stars made of?	4	All options are correct
+1	star	pre	3	Do all stars have the same size and shape?	1	They have the same shape, but not the same size
+1	star	pre	3	Do all stars have the same size and shape?	2	They have the same size, but not the same shape
+1	star	pre	3	Do all stars have the same size and shape?	3	They all have the same size and shape
+1	star	pre	3	Do all stars have the same size and shape?	4	They all have different sizes and shapes
+1	star	pre	4	Mark the INCORRECT sentence.	1	The sun is the hottest star in the Universe
+1	star	pre	4	Mark the INCORRECT sentence.	2	Most of the stars you see in the night sky are bigger and brighter than the sun.
+1	star	pre	4	Mark the INCORRECT sentence.	3	Stars die and go through many phases of life, much like organic beings.
+1	star	pre	4	Mark the INCORRECT sentence.	4	Every single star has almost the exact same chemical composition.
+1	star	pre	5	How long does it take for a star to form?	1	Around  100 000 years
+1	star	pre	5	How long does it take for a star to form?	2	Around 1000 years
+1	star	pre	5	How long does it take for a star to form?	3	Around 10 000
+1	star	pre	5	How long does it take for a star to form?	4	Around 100 000 000 years
+1	star	pre	6	Is a shooting star a star?	1	It is a small meteor
+1	star	pre	6	Is a shooting star a star?	2	It is a exploding star
+1	star	pre	6	Is a shooting star a star?	3	It is a dead star
+1	star	pre	6	Is a shooting star a star?	4	It is something not listed here
+1	star	pre	7	Which of the following is NOT the name of a constellation:	1	Hippopotames
+1	star	pre	7	Which of the following is NOT the name of a constellation:	2	Scorpius
+1	star	pre	7	Which of the following is NOT the name of a constellation:	3	Orion
+1	star	pre	7	Which of the following is NOT the name of a constellation:	4	Ursa Major
+1	star	pre	8	Mark the INCORRECT sentence.	1	There is only one type of star
+1	star	pre	8	Mark the INCORRECT sentence.	2	Stars consist of super hot gas, the composition of which is mostly hydrogen and helium
+1	star	pre	8	Mark the INCORRECT sentence.	3	The sun is the closest star to Earth
+1	star	pre	8	Mark the INCORRECT sentence.	4	On a clear night, you can see stars that are over a quadrillion miles away
+1	star	pre	9	Light is a ….	1	Both a wave and a particle
+1	star	pre	9	Light is a ….	2	Neither a wave nor a particle
+1	star	pre	9	Light is a ….	3	Particle
+1	star	pre	9	Light is a ….	4	Wave
+1	star	pre	10	Stars usually ?	1	Emit light
+1	star	pre	10	Stars usually ?	2	Get light from another object
+1	star	pre	10	Stars usually ?	3	Star are defined by their shape and size, not by their light emittance
+1	star	pre	10	Stars usually ?	4	Absorb light and then emit it when the light source is gone
+1	star	pre	11	What holds  a star together	1	Its own gravity
+1	star	pre	11	What holds  a star together	2	The gravity of the sun
+1	star	pre	11	What holds  a star together	3	The gravity of the universe
+1	star	pre	11	What holds  a star together	4	It is not known
+1	star	post	1	What are stars?	1	Big hot round balls of plasma
+1	star	post	1	What are stars?	2	Dead meteorites
+1	star	post	1	What are stars?	3	Big hot round balls of dust
+1	star	post	1	What are stars?	4	None of the options
+1	star	post	2	What happens when light from a distant source passes through a small opening?	1	All options are correct
+1	star	post	2	What happens when light from a distant source passes through a small opening?	2	The passing light picks up an imprint of that opening
+1	star	post	2	What happens when light from a distant source passes through a small opening?	3	Its waves interfere with each other
+1	star	post	2	What happens when light from a distant source passes through a small opening?	4	Its waves are bounced or bent slightly
+1	star	post	3	How does a hexagon leave its imprint?	1	Dashed six-pointed star
+1	star	post	3	How does a hexagon leave its imprint?	2	Dashed four-pointed star
+1	star	post	3	How does a hexagon leave its imprint?	3	Concentric rings
+1	star	post	3	How does a hexagon leave its imprint?	4	Series of dashed dashes
+1	star	post	4	Why do we see stars as pointy?	1	Because the imperfection of our eyes leave this imprint on light
+1	star	post	4	Why do we see stars as pointy?	2	Because stars are really pointy
+1	star	post	4	Why do we see stars as pointy?	3	Because they are bright objects in a dark night sky
+1	star	post	4	Why do we see stars as pointy?	4	None of the options are correct
+1	star	post	5	How does a double slit leave its imprint?	1	Series of dashed dashes
+1	star	post	5	How does a double slit leave its imprint?	2	Concentric rings
+1	star	post	5	How does a double slit leave its imprint?	3	Dashed four-pointed star
+1	star	post	5	How does a double slit leave its imprint?	4	Dashed six-pointed star
+1	star	post	6	Mark the INCORRECT sentence.	1	Only humans see pointy stars
+1	star	post	6	Mark the INCORRECT sentence.	2	The right and left eye of a person sees a slightly different star-like smear
+1	star	post	6	Mark the INCORRECT sentence.	3	Any particular eye sees the same star shape for every star
+1	star	post	6	Mark the INCORRECT sentence.	4	None of the options are incorrect.
+1	star	post	7	__________ is the slight bending of light as it passes around the edge of an object.	1	Diffraction
+1	star	post	7	__________ is the slight bending of light as it passes around the edge of an object.	2	Scattering
+1	star	post	7	__________ is the slight bending of light as it passes around the edge of an object.	3	Reflection
+1	star	post	7	__________ is the slight bending of light as it passes around the edge of an object.	4	Refraction
+1	star	post	8	Diffraction bends longer wavelength _____ light more than _____ light.	1	red; blue
+1	star	post	8	Diffraction bends longer wavelength _____ light more than _____ light.	2	blue; yellow
+1	star	post	8	Diffraction bends longer wavelength _____ light more than _____ light.	3	green; red
+1	star	post	8	Diffraction bends longer wavelength _____ light more than _____ light.	4	green; yellow
+1	star	post	9	What is the shape of stars in Hubble space telescope photos?	1	Four pointed
+1	star	post	9	What is the shape of stars in Hubble space telescope photos?	2	Concentric rings
+1	star	post	9	What is the shape of stars in Hubble space telescope photos?	3	Six pointed
+1	star	post	9	What is the shape of stars in Hubble space telescope photos?	4	Series of dashes
+1	star	post	10	What is the diffraction imprint of a circle?	1	Concentric rings
+1	star	post	10	What is the diffraction imprint of a circle?	2	Dashed lines
+1	star	post	10	What is the diffraction imprint of a circle?	3	4-pointed perpendicular lines
+1	star	post	10	What is the diffraction imprint of a circle?	4	Dashed rings
+1	star	post	11	What causes “suture lines”?	1	Where the fibers that make up the eye’s lens meet
+1	star	post	11	What causes “suture lines”?	2	Health problems
+1	star	post	11	What causes “suture lines”?	3	Short-sightedness
+1	star	post	11	What causes “suture lines”?	4	All options are correct
+1	star	post	12	How do scientists test that individual suture lines are the cause of subject-specific diffraction patterns?	1	Shine a laser into people’s eyes
+1	star	post	12	How do scientists test that individual suture lines are the cause of subject-specific diffraction patterns?	2	Measure the pattern of suture lines in an individual’s eyes
+1	star	post	12	How do scientists test that individual suture lines are the cause of subject-specific diffraction patterns?	3	Compare left and right eye shapes
+1	star	post	12	How do scientists test that individual suture lines are the cause of subject-specific diffraction patterns?	4	Photograph the iris patterns and compare to star shapes
+1	bulb	pre	1	What kind of light bulbs are the most common in homes?	1	Incandescent bulbs
+1	bulb	pre	1	What kind of light bulbs are the most common in homes?	2	Fluorescent bulbs
+1	bulb	pre	1	What kind of light bulbs are the most common in homes?	3	Light Emitting Diodes
+1	bulb	pre	1	What kind of light bulbs are the most common in homes?	4	Halogen light bulbs
+1	bulb	pre	2	What kind of light bulb is the most efficient?	1	Light Emitting Diodes
+1	bulb	pre	2	What kind of light bulb is the most efficient?	2	Incandescent bulbs
+1	bulb	pre	2	What kind of light bulb is the most efficient?	3	Fluorescent bulbs
+1	bulb	pre	2	What kind of light bulb is the most efficient?	4	Other
+1	bulb	pre	3	What is the efficiency % of the incandescent light bulb?	1	Less than 10%
+1	bulb	pre	3	What is the efficiency % of the incandescent light bulb?	2	30 percent
+1	bulb	pre	3	What is the efficiency % of the incandescent light bulb?	3	50 percent
+1	bulb	pre	3	What is the efficiency % of the incandescent light bulb?	4	80 percent
+1	bulb	pre	4	Mark the INCORRECT sentence	1	Light bulbs are only ever used for the purpose of lighting the environment
+1	bulb	pre	4	Mark the INCORRECT sentence	2	Almost half of the electricity used by industry is for lighting
+1	bulb	pre	4	Mark the INCORRECT sentence	3	Some light bulbs contain gas inside of the bulbs
+1	bulb	pre	4	Mark the INCORRECT sentence	4	Prior to 1900 electric light bulbs did not have filaments
+1	bulb	pre	5	What percent of home electric bills is due to electric lights?	1	25 percent
+1	bulb	pre	5	What percent of home electric bills is due to electric lights?	2	90 percent
+1	bulb	pre	5	What percent of home electric bills is due to electric lights?	3	50 percent
+1	bulb	pre	5	What percent of home electric bills is due to electric lights?	4	5 percent
+1	bulb	pre	6	What is the electrical voltage used for most common US domestic appliances?	1	120 V
+1	bulb	pre	6	What is the electrical voltage used for most common US domestic appliances?	2	110 V
+1	bulb	pre	6	What is the electrical voltage used for most common US domestic appliances?	3	220 V
+1	bulb	pre	6	What is the electrical voltage used for most common US domestic appliances?	4	230 V
+1	bulb	pre	7	What is the average lifespan of an incandescent light bulb?	1	1200 hours
+1	bulb	pre	7	What is the average lifespan of an incandescent light bulb?	2	500 hours
+1	bulb	pre	7	What is the average lifespan of an incandescent light bulb?	3	2000 hours
+1	bulb	pre	7	What is the average lifespan of an incandescent light bulb?	4	3000 hours
+1	bulb	pre	8	Light bulbs produce light and….	1	Heat
+1	bulb	pre	8	Light bulbs produce light and….	2	Electrons
+1	bulb	pre	8	Light bulbs produce light and….	3	Protons
+1	bulb	pre	8	Light bulbs produce light and….	4	They only produce light
+1	bulb	pre	9	What is the metal piece inside of a light bulb called?	1	Filament
+1	bulb	pre	9	What is the metal piece inside of a light bulb called?	2	Filling
+1	bulb	pre	9	What is the metal piece inside of a light bulb called?	3	Electrode
+1	bulb	pre	9	What is the metal piece inside of a light bulb called?	4	Semiconducting crystal
+1	bulb	pre	10	Fill in the blanks: Light bulbs convert _______ energy into ________ energy.	1	electrical; light
+1	bulb	pre	10	Fill in the blanks: Light bulbs convert _______ energy into ________ energy.	2	electrical; chemical
+1	bulb	pre	10	Fill in the blanks: Light bulbs convert _______ energy into ________ energy.	3	kinetic; potential
+1	bulb	pre	10	Fill in the blanks: Light bulbs convert _______ energy into ________ energy.	4	All options are correct
+1	bulb	post	1	When was the incandescent light bulb created?	1	19th Century
+1	bulb	post	1	When was the incandescent light bulb created?	2	18th Century
+1	bulb	post	1	When was the incandescent light bulb created?	3	17th Century
+1	bulb	post	1	When was the incandescent light bulb created?	4	20th Century
+1	bulb	post	2	The bulb does all of the following EXCEPT:	1	Increases the brightness of the light emitted
+1	bulb	post	2	The bulb does all of the following EXCEPT:	2	Allows the filament to produce light more efficiently
+1	bulb	post	2	The bulb does all of the following EXCEPT:	3	Prevents gas from escaping from inside the bulb
+1	bulb	post	2	The bulb does all of the following EXCEPT:	4	Prevents oxygen from reaching the filament
+1	bulb	post	3	What is the role of the halogen gas in halogen bulbs?	1	All options are correct
+1	bulb	post	3	What is the role of the halogen gas in halogen bulbs?	2	Keep the light bulb clean
+1	bulb	post	3	What is the role of the halogen gas in halogen bulbs?	3	Prevent the wire from burning out
+1	bulb	post	3	What is the role of the halogen gas in halogen bulbs?	4	Helps redeposit atoms back onto the filament
+1	bulb	post	4	Which gas exists in halogen light bulbs?	1	Hydrogen bromide
+1	bulb	post	4	Which gas exists in halogen light bulbs?	2	Mercury chloride
+1	bulb	post	4	Which gas exists in halogen light bulbs?	3	Nitrogen bromide
+1	bulb	post	4	Which gas exists in halogen light bulbs?	4	Nitrogen fluoride
+1	bulb	post	5	Why don’t vapor lamps need a fluorescent coating?	1	Because they emit mainly visible light
+1	bulb	post	5	Why don’t vapor lamps need a fluorescent coating?	2	Because they don’t use gas
+1	bulb	post	5	Why don’t vapor lamps need a fluorescent coating?	3	Because they don’t have a bulb
+1	bulb	post	5	Why don’t vapor lamps need a fluorescent coating?	4	All options are correct
+1	bulb	post	6	What happens when the electrons bump into the mercury atoms in the fluorescent bulbs?	1	The energy of the collision makes the atoms get excited
+1	bulb	post	6	What happens when the electrons bump into the mercury atoms in the fluorescent bulbs?	2	The energy of the collision makes the atoms relax
+1	bulb	post	6	What happens when the electrons bump into the mercury atoms in the fluorescent bulbs?	3	The energy of the collision makes the atoms keep the inside of the bulb clean
+1	bulb	post	6	What happens when the electrons bump into the mercury atoms in the fluorescent bulbs?	4	The energy of the collision splits the atom and releases energy
+1	bulb	post	7	Which of the following statements best describes the reactions that emit light within a fluorescent tube?	1	Electrons in the electrical current collide with mercury gas atoms, causing the atoms to emit light in their excited state
+1	bulb	post	7	Which of the following statements best describes the reactions that emit light within a fluorescent tube?	2	Chlorine gas in the tubes excites the electrons in the electrical current to emit light
+1	bulb	post	7	Which of the following statements best describes the reactions that emit light within a fluorescent tube?	3	Chemical reactions cause the hydrogen atoms in the tube to collide with the electrons, which emit light in their excited state
+1	bulb	post	7	Which of the following statements best describes the reactions that emit light within a fluorescent tube?	4	None of the options are correct
+1	bulb	post	8	What is fluorescence?	1	The process of absorbing ultraviolet light and re-emitting it as more visible light
+1	bulb	post	8	What is fluorescence?	2	The process of converting electrical current into visible light
+1	bulb	post	8	What is fluorescence?	3	The process of capturing the atoms that evaporates of the filament and put them back where they belong
+1	bulb	post	8	What is fluorescence?	4	The process of keeping the inside of the bulb clean and clear
+1	bulb	post	9	Suppose you have a large warehouse or a street that you need to light, which one of the following would you use?	1	Vapor lamps
+1	bulb	post	9	Suppose you have a large warehouse or a street that you need to light, which one of the following would you use?	2	LED
+1	bulb	post	9	Suppose you have a large warehouse or a street that you need to light, which one of the following would you use?	3	Any light producing source
+1	bulb	post	9	Suppose you have a large warehouse or a street that you need to light, which one of the following would you use?	4	Halogens
+1	bulb	post	10	The LED semiconductors has 2 layers, one ____________ while the other ____________.	1	Provides electrons with a lot of energy, Provides a place for the electrons to relax
+1	bulb	post	10	The LED semiconductors has 2 layers, one ____________ while the other ____________.	2	Provides tungsten atoms, Provides a place for the electrons relax
+1	bulb	post	10	The LED semiconductors has 2 layers, one ____________ while the other ____________.	3	Provides electrons with a lot of energy, Provides a place for the electrons absorb energy
+1	bulb	post	10	The LED semiconductors has 2 layers, one ____________ while the other ____________.	4	None of options are correct
+1	bulb	post	11	How does a crystal of semiconducting gallium interact to form light in an LED bulb? Choose the best answer.	1	Electrons are transported from one end of the diode to the other and emit light
+1	bulb	post	11	How does a crystal of semiconducting gallium interact to form light in an LED bulb? Choose the best answer.	2	Electrical current moves electrons from a relaxed state to an excited state, which results in light
+1	bulb	post	11	How does a crystal of semiconducting gallium interact to form light in an LED bulb? Choose the best answer.	3	Thermal energy transports the electrons from a higher state of energy to a lower state of energy, emitting light
+1	bulb	post	11	How does a crystal of semiconducting gallium interact to form light in an LED bulb? Choose the best answer.	4	None of the options are correct
+1	immune	pre	1	Which of the following is NOT a function of the human body's immune system?	1	The immune system often causes one to contract the same illness a second time after warding off an infection.
+1	immune	pre	1	Which of the following is NOT a function of the human body's immune system?	2	The immune system attacks organisms and substances that invade body systems and cause disease.
+1	immune	pre	1	Which of the following is NOT a function of the human body's immune system?	3	The immune system is made up of a network of cells, tissues, and organs that work together to protect the body.
+1	immune	pre	1	Which of the following is NOT a function of the human body's immune system?	4	The immune system is a host defense system comprising many biological structures and processes within an organism.
+1	immune	pre	2	Which of the following cells could be found in the human immune system:	1	Dendritic
+1	immune	pre	2	Which of the following cells could be found in the human immune system:	2	Antibodies
+1	immune	pre	2	Which of the following cells could be found in the human immune system:	3	Hair cells
+1	immune	pre	2	Which of the following cells could be found in the human immune system:	4	All options are correct
+1	immune	pre	3	An antigen is a molecule capable of inducing an immune response on the part of the host organism,though sometimes antigens can be part of the host itself. Mark the one which is not an antigen	1	Antibodies
+1	immune	pre	3	An antigen is a molecule capable of inducing an immune response on the part of the host organism,though sometimes antigens can be part of the host itself. Mark the one which is not an antigen	2	Bacteria
+1	immune	pre	3	An antigen is a molecule capable of inducing an immune response on the part of the host organism,though sometimes antigens can be part of the host itself. Mark the one which is not an antigen	3	Virus
+1	immune	pre	3	An antigen is a molecule capable of inducing an immune response on the part of the host organism,though sometimes antigens can be part of the host itself. Mark the one which is not an antigen	4	Fungi
+1	immune	pre	4	An autoimmune disorder occurs when a person's immune system mistakenly attacks their own body tissues.Which of the disorders below is NOT an autoimmune disorder?	1	Osteoporosis
+1	immune	pre	4	An autoimmune disorder occurs when a person's immune system mistakenly attacks their own body tissues.Which of the disorders below is NOT an autoimmune disorder?	2	Multiple sclerosis
+1	immune	pre	4	An autoimmune disorder occurs when a person's immune system mistakenly attacks their own body tissues.Which of the disorders below is NOT an autoimmune disorder?	3	Lupus
+1	immune	pre	4	An autoimmune disorder occurs when a person's immune system mistakenly attacks their own body tissues.Which of the disorders below is NOT an autoimmune disorder?	4	Asthma
+1	immune	pre	5	Mark the INCORRECT sentence about inflammation	1	Inflammation is a synonym for infection
+1	immune	pre	5	Mark the INCORRECT sentence about inflammation	2	Inflammation is part of the complex biological response of body tissues to harmful stimuli
+1	immune	pre	5	Mark the INCORRECT sentence about inflammation	3	Inflammation involves immune cells, blood vessels, and molecular mediators
+1	immune	pre	5	Mark the INCORRECT sentence about inflammation	4	The function of inflammation is to eliminate the initial cause of cell injury and clear out tissues damaged
+1	immune	pre	6	Mark the INCORRECT sentence:	1	All germs are bad
+1	immune	pre	6	Mark the INCORRECT sentence:	2	Vaccines educate your immune system
+1	immune	pre	6	Mark the INCORRECT sentence:	3	Sleep deprivation can impact immunity
+1	immune	pre	6	Mark the INCORRECT sentence:	4	Your immune system can attack itself
+1	immune	pre	7	Which of the following options could be a possible cause for inflammation?	1	All options are correct
+1	immune	pre	7	Which of the following options could be a possible cause for inflammation?	2	Physical injury, blunt or penetrating
+1	immune	pre	7	Which of the following options could be a possible cause for inflammation?	3	Frostbite
+1	immune	pre	7	Which of the following options could be a possible cause for inflammation?	4	Burn
+1	immune	pre	8	Which of the names below does NOT correspond to a type of inflammation?	1	Hekelitis
+1	immune	pre	8	Which of the names below does NOT correspond to a type of inflammation?	2	Rhinitis
+1	immune	pre	8	Which of the names below does NOT correspond to a type of inflammation?	3	Appendicitis
+1	immune	pre	8	Which of the names below does NOT correspond to a type of inflammation?	4	Dermatitis
+1	immune	pre	9	Mark the INCORRECT sentence about the immune system	1	Stress does not affect the way your immune system works
+1	immune	pre	9	Mark the INCORRECT sentence about the immune system	2	Your immune system can attack itself
+1	immune	pre	9	Mark the INCORRECT sentence about the immune system	3	Your immune system may suffer from lack of sleep
+1	immune	pre	9	Mark the INCORRECT sentence about the immune system	4	Disease symptoms are sometimes the result of your immune system doing its job
+1	immune	post	1	Mark the option below that corresponds to a job that is NOT executed by the immune system.	1	Produce fungi
+1	immune	post	1	Mark the option below that corresponds to a job that is NOT executed by the immune system.	2	Produce antibodies
+1	immune	post	1	Mark the option below that corresponds to a job that is NOT executed by the immune system.	3	Kill enemies
+1	immune	post	1	Mark the option below that corresponds to a job that is NOT executed by the immune system.	4	Communicate
+1	immune	post	2	Approximately how many body cells die fighting an infection?	1	Millions
+1	immune	post	2	Approximately how many body cells die fighting an infection?	2	Billions
+1	immune	post	2	Approximately how many body cells die fighting an infection?	3	Thousands
+1	immune	post	2	Approximately how many body cells die fighting an infection?	4	Hundreds
+1	immune	post	3	What is the first cell type to intervene during a bacterial invasion?	1	Guard cells / macrophage
+1	immune	post	3	What is the first cell type to intervene during a bacterial invasion?	2	Memory cells
+1	immune	post	3	What is the first cell type to intervene during a bacterial invasion?	3	B-cells
+1	immune	post	3	What is the first cell type to intervene during a bacterial invasion?	4	Dendritic cells
+1	immune	post	4	What is the main job of the macrophage cell?	1	To kill enemies
+1	immune	post	4	What is the main job of the macrophage cell?	2	To cause inflammation
+1	immune	post	4	What is the main job of the macrophage cell?	3	To activate cells
+1	immune	post	4	What is the main job of the macrophage cell?	4	All  options are correct
+1	immune	post	5	Approximately how long does it take bacteria to double its population in the bloodstream?	1	20 minutes
+1	immune	post	5	Approximately how long does it take bacteria to double its population in the bloodstream?	2	30 minutes
+1	immune	post	5	Approximately how long does it take bacteria to double its population in the bloodstream?	3	30 seconds
+1	immune	post	5	Approximately how long does it take bacteria to double its population in the bloodstream?	4	20 seconds
+1	immune	post	6	When T-cells are born they go through a very difficult and complicated training process.  How many of them survive?	1	A quarter of them
+1	immune	post	6	When T-cells are born they go through a very difficult and complicated training process.  How many of them survive?	2	Half of them
+1	immune	post	6	When T-cells are born they go through a very difficult and complicated training process.  How many of them survive?	3	All of them
+1	immune	post	6	When T-cells are born they go through a very difficult and complicated training process.  How many of them survive?	4	None of the options are correct
+1	immune	post	7	Which of the following is INCORRECT about B-cells?	1	B-cells send chemical instructions to the rest of the immune system.
+1	immune	post	7	Which of the following is INCORRECT about B-cells?	2	The B-cells are activated by the T-cells
+1	immune	post	7	Which of the following is INCORRECT about B-cells?	3	The B-cells are considered a very powerful weapons factory
+1	immune	post	7	Which of the following is INCORRECT about B-cells?	4	B-cells work so hard that they can literally die from exhaustion
+1	immune	post	8	Mark the INCORRECT option about antibodies.	1	They are produced by the dendritic cells
+1	immune	post	8	Mark the INCORRECT option about antibodies.	2	They are engineered to bind to the  surface of a specific intruder
+1	immune	post	8	Mark the INCORRECT option about antibodies.	3	There are different kinds of antibodies that have slightly different jobs
+1	immune	post	8	Mark the INCORRECT option about antibodies.	4	They flood the blood and saturate the body
+1	immune	post	9	After the infection is wiped out most of the immune cells commit suicide. What are the cells that stay behind?	1	Memory cells
+1	immune	post	9	After the infection is wiped out most of the immune cells commit suicide. What are the cells that stay behind?	2	Dendritic cells
+1	immune	post	9	After the infection is wiped out most of the immune cells commit suicide. What are the cells that stay behind?	3	Macrophage cells
+1	immune	post	9	After the infection is wiped out most of the immune cells commit suicide. What are the cells that stay behind?	4	All options are correct
+1	immune	post	10	B cells are prevented from dying by:	1	T cells
+1	immune	post	10	B cells are prevented from dying by:	2	Antibodies
+1	immune	post	10	B cells are prevented from dying by:	3	Helper B-cells
+1	immune	post	10	B cells are prevented from dying by:	4	Any white cell
+1	immune	post	11	Neutrophile cells commit suicide after __ in order to _______?	1	5 days; prevent them from causing too much damage
+1	immune	post	11	Neutrophile cells commit suicide after __ in order to _______?	2	5 hours; avoid wasting resources
+1	immune	post	11	Neutrophile cells commit suicide after __ in order to _______?	3	The invading bacteria is defeated; prevent them from causing too much damage
+1	immune	post	11	Neutrophile cells commit suicide after __ in order to _______?	4	4 days; avoid wasting resources
+1	immune	post	12	How long does it take for Dendritic cells to travel to the lymph nodes?	1	1 day
+1	immune	post	12	How long does it take for Dendritic cells to travel to the lymph nodes?	2	1 hour
+1	immune	post	12	How long does it take for Dendritic cells to travel to the lymph nodes?	3	12 hours
+1	immune	post	12	How long does it take for Dendritic cells to travel to the lymph nodes?	4	More than 2 days
+1	internet	pre	1	Mark the INCORRECT sentence.	1	30% of American adults do not use the Internet
+1	internet	pre	1	Mark the INCORRECT sentence.	2	People spend more time browsing the web on mobile devices rather than on desktop computers
+1	internet	pre	1	Mark the INCORRECT sentence.	3	The majority of internet traffic is not generated by humans, but by bots and malware
+1	internet	pre	1	Mark the INCORRECT sentence.	4	There are treatment camps for internet addicts
+1	internet	pre	2	What does HTTP mean?	1	HyperText Transfer Protocol
+1	internet	pre	2	What does HTTP mean?	2	HyperText Transfer Process
+1	internet	pre	2	What does HTTP mean?	3	HyperTool Transfer Protocol
+1	internet	pre	2	What does HTTP mean?	4	None of the options are correct
+1	internet	pre	3	What does HTML mean?	1	HyperText Markup Language
+1	internet	pre	3	What does HTML mean?	2	HyperText Markup Logistics
+1	internet	pre	3	What does HTML mean?	3	HyperTool Markup Language
+1	internet	pre	3	What does HTML mean?	4	None of the options are correct
+1	internet	pre	4	What does URL mean?	1	Uniform Resource Locator
+1	internet	pre	4	What does URL mean?	2	Uniform Resource Language
+1	internet	pre	4	What does URL mean?	3	Uniform Rapid Locator
+1	internet	pre	4	What does URL mean?	4	None of the options are correct
+1	internet	pre	5	Which of the names below do NOT correspond to a browser?	1	Yahoo
+1	internet	pre	5	Which of the names below do NOT correspond to a browser?	2	Mozilla Firefox
+1	internet	pre	5	Which of the names below do NOT correspond to a browser?	3	Safari
+1	internet	pre	5	Which of the names below do NOT correspond to a browser?	4	Google Chrome
+1	internet	pre	6	What country has the fastest internet connection in the world?	1	South Korea
+1	internet	pre	6	What country has the fastest internet connection in the world?	2	United States of America
+1	internet	pre	6	What country has the fastest internet connection in the world?	3	Finland
+1	internet	pre	6	What country has the fastest internet connection in the world?	4	Norway
+1	internet	pre	7	How many websites  are there on internet?	1	Around 1 billion
+1	internet	pre	7	How many websites  are there on internet?	2	Around 100 million
+1	internet	pre	7	How many websites  are there on internet?	3	Around 500 million
+1	internet	pre	7	How many websites  are there on internet?	4	Around 10 billion
+1	internet	pre	8	In general, all of the following use IP addresses EXCEPT:	1	A personal computer that is not connected to the internet
+1	internet	pre	8	In general, all of the following use IP addresses EXCEPT:	2	A website
+1	internet	pre	8	In general, all of the following use IP addresses EXCEPT:	3	A server computer hosting a website
+1	internet	pre	8	In general, all of the following use IP addresses EXCEPT:	4	A personal computer used to access the Internet
+1	internet	pre	9	When was the first tweet sent on twitter?	1	In the year 2006
+1	internet	pre	9	When was the first tweet sent on twitter?	2	In the year 2002
+1	internet	pre	9	When was the first tweet sent on twitter?	3	In the year 2010
+1	internet	pre	9	When was the first tweet sent on twitter?	4	In the year 1999
+1	internet	post	1	When did networks begin communicating with each other?	1	During 1975
+1	internet	post	1	When did networks begin communicating with each other?	2	During 1940
+1	internet	post	1	When did networks begin communicating with each other?	3	During 1950
+1	internet	post	1	When did networks begin communicating with each other?	4	During 1980
+1	internet	post	2	Mark the correct options about emails.	1	All options are correct
+1	internet	post	2	Mark the correct options about emails.	2	Most internet traffic in 1976 was email
+1	internet	post	2	Mark the correct options about emails.	3	Email was developed for the ARPANET
+1	internet	post	2	Mark the correct options about emails.	4	Email was developed in 1972
+1	internet	post	3	Most internet traffic during the 1970’s was:	1	Written communication
+1	internet	post	3	Most internet traffic during the 1970’s was:	2	Sharing digital images
+1	internet	post	3	Most internet traffic during the 1970’s was:	3	Statistical data sets
+1	internet	post	3	Most internet traffic during the 1970’s was:	4	Website retrievals
+1	internet	post	4	According to the video, what is packet switching?	1	Both options are correct
+1	internet	post	4	According to the video, what is packet switching?	2	Both options are  incorrect
+1	internet	post	4	According to the video, what is packet switching?	3	Cutting up data at one end and putting it back together at the other  
+1	internet	post	4	According to the video, what is packet switching?	4	A way of avoiding congestion in busy networks
+1	internet	post	5	When and where was the World Wide Web first launched?	1	1991; France
+1	internet	post	5	When and where was the World Wide Web first launched?	2	1980; Russia
+1	internet	post	5	When and where was the World Wide Web first launched?	3	1989; U.S.A.
+1	internet	post	5	When and where was the World Wide Web first launched?	4	1995; England
+1	internet	post	6	Why didn’t the commercial network in Britain get developed?	1	It lacked funding
+1	internet	post	6	Why didn’t the commercial network in Britain get developed?	2	It didn’t work
+1	internet	post	6	Why didn’t the commercial network in Britain get developed?	3	It was not finished
+1	internet	post	6	Why didn’t the commercial network in Britain get developed?	4	None of the options are correct
+1	internet	post	7	What was the goal of the first network?	1	Optimizing processor usage
+1	internet	post	7	What was the goal of the first network?	2	Facilitating communication
+1	internet	post	7	What was the goal of the first network?	3	Sharing research materials
+1	internet	post	7	What was the goal of the first network?	4	Espionage
+1	internet	post	8	How did time sharing change the efficiency of mainframe computers?	1	The mainframes could process several pieces of data at once, so that multiple scientists could use it at the same time
+1	internet	post	8	How did time sharing change the efficiency of mainframe computers?	2	It connected multiple mainframe computers together, resulting in increased communication between scientists
+1	internet	post	8	How did time sharing change the efficiency of mainframe computers?	3	It cut up data at one end and joined it at the other
+1	internet	post	8	How did time sharing change the efficiency of mainframe computers?	4	All options are correct
+1	internet	post	9	What were the three main computer networks mentioned in the video, each of which was located in a different country?	1	CYCLADES, ARPANET, NPL
+1	internet	post	9	What were the three main computer networks mentioned in the video, each of which was located in a different country?	2	HTML, CYCLADES, NPL
+1	internet	post	9	What were the three main computer networks mentioned in the video, each of which was located in a different country?	3	TCP, HTML, ARPANET
+1	internet	post	9	What were the three main computer networks mentioned in the video, each of which was located in a different country?	4	NPL, TCP, WWW
+1	internet	post	10	What is the name of the first network?	1	ARPANET
+1	internet	post	10	What is the name of the first network?	2	WWW
+1	internet	post	10	What is the name of the first network?	3	CYCLADES
+1	internet	post	10	What is the name of the first network?	4	HTML
+1	internet	post	11	For what primary reason did Tim Berners-Lee created the World Wide Web? Choose the best answer.	1	He wanted to create a platform for information to be organized and shared easily
+1	internet	post	11	For what primary reason did Tim Berners-Lee created the World Wide Web? Choose the best answer.	2	He wanted to better organize scientists’ information into folders
+1	internet	post	11	For what primary reason did Tim Berners-Lee created the World Wide Web? Choose the best answer.	3	He wanted to increase communication between people
+1	internet	post	11	For what primary reason did Tim Berners-Lee created the World Wide Web? Choose the best answer.	4	He wanted to provide ordinary people with better accessibility to scientific information
+1	internet	post	12	Which kind of companies saw the commercial potential of digital communication in the 1990’s?	1	Phone companies
+1	internet	post	12	Which kind of companies saw the commercial potential of digital communication in the 1990’s?	2	Car companies
+1	internet	post	12	Which kind of companies saw the commercial potential of digital communication in the 1990’s?	3	Clothing companies
+1	internet	post	12	Which kind of companies saw the commercial potential of digital communication in the 1990’s?	4	Travel agencies
+1	birth	pre	1	Among the entire human population (all ages), what is the ratio of males to females?	1	101 males to 100 females
+1	birth	pre	1	Among the entire human population (all ages), what is the ratio of males to females?	2	100 males to 105 females
+1	birth	pre	1	Among the entire human population (all ages), what is the ratio of males to females?	3	100 males to 100 females
+1	birth	pre	1	Among the entire human population (all ages), what is the ratio of males to females?	4	None of the options are correct
+1	birth	pre	2	Which of the following effects determines the gender of human babies?	1	All options are correct
+1	birth	pre	2	Which of the following effects determines the gender of human babies?	2	The stage of the mother’s ovulation cycle
+1	birth	pre	2	Which of the following effects determines the gender of human babies?	3	Psychological stress
+1	birth	pre	2	Which of the following effects determines the gender of human babies?	4	Whether or not the mother has had children previously
+1	birth	pre	3	In which age group do males outnumber females the most?	1	At birth
+1	birth	pre	3	In which age group do males outnumber females the most?	2	All ages under 15 years old
+1	birth	pre	3	In which age group do males outnumber females the most?	3	15 - 64 years old
+1	birth	pre	3	In which age group do males outnumber females the most?	4	Over 65
+1	birth	pre	4	Which of the following environmental factors listed below DOES NOT contribute to the ratio of boys to girls born worldwide?	1	Effects of sunlight exposure
+1	birth	pre	4	Which of the following environmental factors listed below DOES NOT contribute to the ratio of boys to girls born worldwide?	2	Effects of chemical pollution
+1	birth	pre	4	Which of the following environmental factors listed below DOES NOT contribute to the ratio of boys to girls born worldwide?	3	Effects of gestation environment
+1	birth	pre	4	Which of the following environmental factors listed below DOES NOT contribute to the ratio of boys to girls born worldwide?	4	Effects of climate change
+1	birth	pre	5	A baby born with the genetic code xy is	1	Male
+1	birth	pre	5	A baby born with the genetic code xy is	2	Female
+1	birth	pre	5	A baby born with the genetic code xy is	3	More information needed to determine the sex of the baby
+1	birth	pre	5	A baby born with the genetic code xy is	4	Mother’s hormones are what determine ultimately the sex of the baby
+1	birth	pre	6	Which of the social factors listed below contributes to ratio of boys to girls born worldwide?	1	Both options are correct
+1	birth	pre	6	Which of the social factors listed below contributes to ratio of boys to girls born worldwide?	2	Sex selective abortion
+1	birth	pre	6	Which of the social factors listed below contributes to ratio of boys to girls born worldwide?	3	Early marriage and parents' age
+1	birth	pre	6	Which of the social factors listed below contributes to ratio of boys to girls born worldwide?	4	Both options are incorrect
+1	birth	pre	7	How many live births are intersex (neither male nor female)?	1	0.1% - 1.7%
+1	birth	pre	7	How many live births are intersex (neither male nor female)?	2	3% - 5%
+1	birth	pre	7	How many live births are intersex (neither male nor female)?	3	6% - 8%
+1	birth	pre	7	How many live births are intersex (neither male nor female)?	4	More than 8%
+1	birth	pre	8	All of the following are common among countries with a more uneven gender balance except:	1	High rates of literacy
+1	birth	pre	8	All of the following are common among countries with a more uneven gender balance except:	2	Rapid decline in fertility
+1	birth	pre	8	All of the following are common among countries with a more uneven gender balance except:	3	Pressure for women to give birth to sons (often because of cultural preference)
+1	birth	pre	8	All of the following are common among countries with a more uneven gender balance except:	4	Families have widespread access to technology to selectively abort female fetuses
+1	birth	post	1	In which countries does human intervention increase the ratio boys to girls?	1	China
+1	birth	post	1	In which countries does human intervention increase the ratio boys to girls?	2	Azerbaijan
+1	birth	post	1	In which countries does human intervention increase the ratio boys to girls?	3	Armenia
+1	birth	post	1	In which countries does human intervention increase the ratio boys to girls?	4	South Korea
+1	birth	post	2	Most parents-to-be assume:	1	The sex of their child comes down to a flip of the coin
+1	birth	post	2	Most parents-to-be assume:	2	The sex of their child depends on environmental factors
+1	birth	post	2	Most parents-to-be assume:	3	The sex of their child depends on social factors
+1	birth	post	2	Most parents-to-be assume:	4	All options are correct  
+1	birth	post	3	What is the ratio of boys to girls born worldwide?	1	106:100
+1	birth	post	3	What is the ratio of boys to girls born worldwide?	2	100:100
+1	birth	post	3	What is the ratio of boys to girls born worldwide?	3	96:100
+1	birth	post	3	What is the ratio of boys to girls born worldwide?	4	None of the options are correct
+1	birth	post	4	How many more baby boys than baby girls are born worldwide each year?	1	10 million
+1	birth	post	4	How many more baby boys than baby girls are born worldwide each year?	2	1 million
+1	birth	post	4	How many more baby boys than baby girls are born worldwide each year?	3	5 million
+1	birth	post	4	How many more baby boys than baby girls are born worldwide each year?	4	20 million
+1	birth	post	5	What is the ratio of male to female zygotes during human conception?	1	150 male zygotes for 100 female zygotes
+1	birth	post	5	What is the ratio of male to female zygotes during human conception?	2	200 male zygotes for 100 female zygotes
+1	birth	post	5	What is the ratio of male to female zygotes during human conception?	3	100 male zygotes for 200 female zygotes
+1	birth	post	5	What is the ratio of male to female zygotes during human conception?	4	100 male zygotes for 150 female zygotes
+1	birth	post	6	Which of the following scenarios explains why the ratio of boys to girls changes with age?	1	Boys are more likely to die from diseases at a young age
+1	birth	post	6	Which of the following scenarios explains why the ratio of boys to girls changes with age?	2	Girls are less likely to survive than males due to genetic reasons.
+1	birth	post	6	Which of the following scenarios explains why the ratio of boys to girls changes with age?	3	Girls more vulnerable to fatal diseases.
+1	birth	post	6	Which of the following scenarios explains why the ratio of boys to girls changes with age?	4	The sex ratio does not change
+1	birth	post	7	What happens to the ratio of boys to girls as children grow and reach baby-making age?	1	The ratio of boys to girls is about one to one
+1	birth	post	7	What happens to the ratio of boys to girls as children grow and reach baby-making age?	2	The ratio of boys to girls is still higher than one
+1	birth	post	7	What happens to the ratio of boys to girls as children grow and reach baby-making age?	3	The ratio of boys to girls decays to less than one
+1	birth	post	7	What happens to the ratio of boys to girls as children grow and reach baby-making age?	4	Depends on each population  
+1	birth	post	8	What happened when a massive famine struck China in the 1960s?	1	The likelihood of having a son decreased
+1	birth	post	8	What happened when a massive famine struck China in the 1960s?	2	The likelihood of having a daughter decreased
+1	birth	post	8	What happened when a massive famine struck China in the 1960s?	3	The likelihood of having a child of either sex increased
+1	birth	post	8	What happened when a massive famine struck China in the 1960s?	4	The likelihood of having a son increased
+1	birth	post	9	In America, what is the probability that male billionaires will father a son?	1	Higher than average
+1	birth	post	9	In America, what is the probability that male billionaires will father a son?	2	Lower than average
+1	birth	post	9	In America, what is the probability that male billionaires will father a son?	3	Same probability
+1	birth	post	9	In America, what is the probability that male billionaires will father a son?	4	It is not known
+1	birth	post	10	Under what circumstances do women generally bear fewer boys?	1	When resources are scarce
+1	birth	post	10	Under what circumstances do women generally bear fewer boys?	2	When the living environment is healthy
+1	birth	post	10	Under what circumstances do women generally bear fewer boys?	3	When the economy is good
+1	birth	post	10	Under what circumstances do women generally bear fewer boys?	4	All options are correct
+1	birth	post	11	Why is it a biological advantage to produce more girls during harsh living conditions?	1	Women are much more likely than men to reproduce regardless of their living conditions
+1	birth	post	11	Why is it a biological advantage to produce more girls during harsh living conditions?	2	Women are less likely to die during harsh living conditions
+1	birth	post	11	Why is it a biological advantage to produce more girls during harsh living conditions?	3	Men require more sustenance and attention to survive
+1	birth	post	11	Why is it a biological advantage to produce more girls during harsh living conditions?	4	All options are correct
+1	birth	post	12	Besides humans, what other group of animals also modulates the ratio of male to female births according to the scarcity of resources?	1	Mammals
+1	birth	post	12	Besides humans, what other group of animals also modulates the ratio of male to female births according to the scarcity of resources?	2	Birds
+1	birth	post	12	Besides humans, what other group of animals also modulates the ratio of male to female births according to the scarcity of resources?	3	Reptiles
+1	birth	post	12	Besides humans, what other group of animals also modulates the ratio of male to female births according to the scarcity of resources?	4	All options are correct

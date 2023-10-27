@@ -1,0 +1,55 @@
+exp_id,course_name,student_id,age,occupation,occupation_field,gender,study_time,degree_cat,GPA
+1,star,0,30,'phd','BME','Female',10.0,'G',3.8
+1,star,1,29,'Master student','BME','Female',9.0,'UG',3.76
+1,star,2,23,'Lab Admin','Higher Ed','Male',2.0,'UG',3.2
+1,star,3,22,'unemployed','unemployed','Male',0.0,'UG',3.65
+1,star,4,18,'student','psychology','Female',6.0,'UG',3.96
+1,star,5,29,'Student','Biomedical Engineering','Male',3.0,'G',4.0
+1,star,6,22,'Student','BME','Male',0.5,'UG',3.98
+1,star,7,30,'student','EE','Female',8.0,'G',4.0
+1,star,8,27,'Grad Student','BME','Female',1.0,'G',3.9
+1,star,9,22,'Student','BME','Female',7.0,'UG',3.0
+1,star,10,39,'teacher','biamedical engineering','Female',2.0,'G',4.0
+1,star,11,18,'Student','Medicine','Male',5.0,'UG',3.7
+1,star,12,28,'PhD student','Neuroscience','Female',4.0,'G',0.0
+1,star,13,23,'Student','Engineering','Female',4.0,'G',0.0
+1,star,14,18,'Student','Psychology','Female',3.0,'UG',3.75
+1,star,15,19,'Student','Biomedical Engineering','Female',6.0,'UG',3.1
+1,star,16,19,'Student','Biomedical Engineering','Male',5.0,'UG',3.925
+1,star,17,21,'Student','biomedical engineering','Female',8.0,'UG',3.4
+1,star,18,24,'student','biomedical engineering','Female',4.0,'NA',4.0
+1,star,19,20,'Student','Student','Female',nan,'UG',2.8
+1,star,20,20,'student','student','Female',5.0,'NA',3.2
+1,star,21,37,'Research Associate','Chemical Engineering','Male',4.0,'G',3.9
+1,star,22,20,'Student','N/A','Male',3.0,'NA',2.9
+1,star,23,32,'self employed','maintnance','Female',3.0,'NA',4.0
+1,star,24,48,'unemployed','paralegal','Male',10.0,'NA',3.0
+1,star,25,53,'Customer Service','Claims','Female',0.0,'NA',4.0
+1,star,26,31,'Property Manager','Real Estate','Male',2.0,'NA',0.4
+1,birth,0,30,'phd','BME','Female',10.0,'G',3.8
+1,birth,1,29,'Master student','BME','Female',9.0,'UG',3.76
+1,birth,2,23,'Lab Admin','Higher Ed','Male',2.0,'UG',3.2
+1,birth,3,22,'unemployed','unemployed','Male',0.0,'UG',3.65
+1,birth,4,18,'student','psychology','Female',6.0,'UG',3.96
+1,birth,5,29,'Student','Biomedical Engineering','Male',3.0,'G',4.0
+1,birth,6,22,'Student','BME','Male',0.5,'UG',3.98
+1,birth,7,30,'student','EE','Female',8.0,'G',4.0
+1,birth,8,27,'Grad Student','BME','Female',1.0,'G',3.9
+1,birth,9,22,'Student','BME','Female',7.0,'UG',3.0
+1,birth,10,39,'teacher','biamedical engineering','Female',2.0,'G',4.0
+1,birth,11,18,'Student','Medicine','Male',5.0,'UG',3.7
+1,birth,12,28,'PhD student','Neuroscience','Female',4.0,'G',0.0
+1,birth,13,23,'Student','Engineering','Female',4.0,'G',0.0
+1,birth,14,18,'Student','Psychology','Female',3.0,'UG',3.75
+1,birth,15,19,'Student','Biomedical Engineering','Female',6.0,'UG',3.1
+1,birth,16,19,'Student','Biomedical Engineering','Male',5.0,'UG',3.925
+1,birth,17,21,'Student','biomedical engineering','Female',8.0,'UG',3.4
+1,birth,18,24,'student','biomedical engineering','Female',4.0,'NA',4.0
+1,birth,19,20,'Student','Student','Female',nan,'UG',2.8
+1,birth,20,20,'student','student','Female',5.0,'NA',3.2
+1,birth,21,37,'Research Associate','Chemical Engineering','Male',4.0,'G',3.9
+1,birth,22,20,'Student','N/A','Male',3.0,'NA',2.9
+1,birth,23,32,'self employed','maintnance','Female',3.0,'NA',4.0
+1,birth,24,48,'unemployed','paralegal','Male',10.0,'NA',3.0
+1,birth,25,53,'Customer Service','Claims','Female',0.0,'NA',4.0
+1,birth,26,31,'Property Manager','Real Estate','Male',2.0,'NA',0.4
