@@ -212,8 +212,8 @@ dataset_config_label = {
         2: 'male',
     },
     'highschool': {
-        1: 'private school',
-        2: 'state school',
+        1: 'private',
+        2: 'state',
         3: 'others',
     },
     'scholarship': {
@@ -228,74 +228,74 @@ dataset_config_label = {
         2: 'only study',
     },
     'activity': {
-        1: 'regular activities',
-        2: 'no activities',
+        1: 'regular',
+        2: 'no',
     },
     'partner': {
         1: 'partner',
         2: 'no partner',
     },
     'salary': {
-        1: '135-200USD',
-        2: '201-270USD',
-        3: '271-340USD',
-        4: '341-410USD',
-        5: '>410USD',
+        1: '135',
+        2: '201',
+        3: '271',
+        4: '341',
+        5: '410',
     },
     'transport': {
         1: 'bus',
-        2: 'car/taxi',
+        2: 'car',
         3: 'bicycle',
         4: 'others',
     },
     'living': {
         1: 'rent',
-        2: 'dormitory',
+        2: 'dorm.',
         3: 'family',
         4: 'others',
     },
     'mother_edu': {
-        1: 'primary',
-        2: 'secondary',
-        3: 'high',
-        4: 'bachelor',
-        5: 'MSc',
-        6: 'PhD',
+        1: 'pri.',
+        2: 'sec.',
+        3: 'hig.',
+        4: 'bac.',
+        5: 'ms',
+        6: 'phd',
     },
     'father_edu': {
-        1: 'primary',
-        2: 'secondary',
-        3: 'high',
-        4: 'bachelor',
-        5: 'MSc',
-        6: 'PhD',
+        1: 'pri.',
+        2: 'sec.',
+        3: 'hig.',
+        4: 'bac.',
+        5: 'ms',
+        6: 'phd',
     },
     'sibling_num': {
         1: '1',
         2: '2s',
         3: '3',
         4: '4',
-        5: '5 or more',
+        5: '>5',
     },
     'parental_status': {
         1: 'married',
         2: 'divorced',
-        3: 'passed away',
+        3: 'passed',
     },
     'mother_job': {
-        1: 'retired',
-        2: 'housewife',
-        3: 'officer',
-        4: 'private sector',
-        5: 'self-employed',
-        6: 'others',
+        1: 'reti.',
+        2: 'hous.',
+        3: 'offi.',
+        4: 'priv.',
+        5: 'self',
+        6: 'etc.',
     },
     'father_job': {
-        1: 'retired',
-        2: 'officer',
-        3: 'private sector',
-        4: 'self-employed',
-        5: 'others',
+        1: 'reti.',
+        2: 'offi.',
+        3: 'priv.',
+        4: 'self',
+        5: 'etc.',
     },
     'study_hour': {
         1: '0',
@@ -334,9 +334,9 @@ dataset_config_label = {
         3: 'others',
     },
     'prep_exam': {
-        1: 'closest to exam',
-        2: 'regularly prepare',
-        3: 'no prepare',
+        1: 'closest',
+        2: 'regularly',
+        3: 'no',
     },
     'note': {
         1: 'never',
@@ -356,7 +356,7 @@ dataset_config_label = {
     'classroom': {
         1: 'not useful',
         2: 'useful',
-        3: 'no experience',
+        3: 'no exp.',
     },
     'cuml_gpa': {
         1: '<2.00',
@@ -590,8 +590,43 @@ dataset_config_label_draw = {
     }
 }
 
+
+dataset_factor_label = {
+    'age': 'Age',
+    'gender': 'Gender',
+    'highschool': 'High School',
+    'scholarship': 'Scholarship',
+    'work': 'Work',
+    'activity': 'Daily Activity',
+    'partner': 'Partner',
+    'salary': 'Salary (USD)',
+    'transport': 'Transportation',
+    'living': 'Living',
+    'mother_edu': 'Mother Education',
+    'father_edu': 'Father Education',
+    'sibling_num': 'Sibling Number',
+    'parental_status': 'Parental Status',
+    'mother_job': 'Mother Job',
+    'father_job': 'Father Job',
+    'study_hour': 'Study Hour',
+    'read_freq_no_sci': 'No-Sci. Reading Frequency',
+    'read_freq_sci': 'Sci. Reading Frequency',
+    'attend_dept': 'Department Attendance',
+    'impact_project': 'Project Impact',
+    'attend_class': 'Class Attendance',
+    'prep_study': 'Study Preparation',
+    'prep_exam': 'Exam Preparation',
+    'note': 'Note Taking',
+    'listen': 'Course Listening',
+    'discuss': 'Discussion',
+    'classroom': 'Classroom',
+    'cuml_gpa': 'Cuml GPA',
+    'exp_gpa': 'EXP GPA',
+    'course_id': 'Course ID',
+    'grade': 'Grade'
+}
+
 def generate_persona(table_item):
-    # student_id,age,gender,highschool,scholarship,work,activity,partner,salary,transport,living,mother_edu,father_edu,sibling_num,parental_status,mother_job,father_job,study_hour,read_freq_no_sci,read_freq_sci,attend_dept,impact_project,attend_class,prep_study,prep_exam,note,listen,discuss,classroom,cuml_gpa,exp_gpa,course_id,grade
     header_list = table_item.columns.values
     arr_item = np.array(table_item)[0]
     pron_name = 'he' if table_item['gender'].values[0] == 2 else 'she'
@@ -689,3 +724,35 @@ def concatenate_result(raw_dataset_path,predict_result_path,output_path):
 
     final_dataset = pd.DataFrame(final_dataset_arr,columns=new_header)
     final_dataset.to_csv(output_path,index=False)
+
+def concatenate_embedding_dataset(raw_dataset_path,embedding_result_path,output_path):
+    raw_dataset_table = pd.read_csv(raw_dataset_path)
+    raw_dataset_arr = np.array(raw_dataset_table)
+
+    new_header = list(raw_dataset_table.columns.values)+['run_id','n_tokens','exp_prompt','embedding'] 		
+
+    embedding_result_table = pd.read_csv(embedding_result_path,sep='\t')
+    
+    final_dataset_arr = np.empty((0,len(new_header)))
+    for i,raw_item in enumerate(raw_dataset_arr):
+        student_id = raw_item[0]
+        embedding_result_items = embedding_result_table[embedding_result_table['student_id']==student_id]
+
+        run_id_arr = np.array(embedding_result_items['run_id'])
+        run_id_arr = run_id_arr.reshape((len(run_id_arr),1))
+        n_tokens_arr = np.array(embedding_result_items['n_tokens'])
+        n_tokens_arr = n_tokens_arr.reshape((len(n_tokens_arr),1))
+        exp_prompt_arr = np.array(embedding_result_items['exp_prompt'])
+        exp_prompt_arr = exp_prompt_arr.reshape((len(exp_prompt_arr),1))
+        embedding_arr = np.array(embedding_result_items['embedding'])
+        embedding_arr = embedding_arr.reshape((len(embedding_arr),1))
+        embedding_run_arr = np.concatenate((run_id_arr,n_tokens_arr,exp_prompt_arr,embedding_arr),axis=1)
+
+        raw_item_arr = np.array(raw_item)
+        raw_item_arr = raw_item_arr.reshape((1,len(raw_item_arr)))
+        student_info_arr = np.tile(raw_item_arr,(len(embedding_run_arr),1))
+        student_item_arr = np.concatenate((student_info_arr,embedding_run_arr),axis=1)
+        final_dataset_arr = np.concatenate((final_dataset_arr,student_item_arr),axis=0)
+
+    final_dataset = pd.DataFrame(final_dataset_arr,columns=new_header)
+    final_dataset.to_csv(output_path,sep='\t',index=False)
