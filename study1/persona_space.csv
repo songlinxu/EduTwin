@@ -1,0 +1,128 @@
+demo_type	demo_choice_id	demo_content
+activity	1	engages in regular artistic or sports activities
+activity	2	does not engage in regular artistic or sports activities
+age	1	18 to 21 years old
+age	2	22 to 25 years old
+age	3	more than 26 years old
+attend_class	1	always attends classes
+attend_class	2	sometimes attends classes
+attend_class	3	never attends classes
+attend_dept	1	attends seminars/conferences related to the department
+attend_dept	2	does not attend seminars/conferences related to the department
+classroom	1	finds the flip-classroom not useful
+classroom	2	finds the flip-classroom useful
+classroom	3	has not experienced the flip-classroom
+course_id	1	Assessment and Evaluation in Education
+course_id	2	other courses
+course_id	3	other courses
+course_id	4	other courses
+course_id	5	other courses
+course_id	6	other courses
+course_id	7	other courses
+course_id	8	Electronics
+course_id	9	General Physics II
+cuml_gpa	1	cumulative GPA is below 2.00
+cuml_gpa	2	cumulative GPA is between 2.00-2.49
+cuml_gpa	3	cumulative GPA is between 2.50-2.99
+cuml_gpa	4	cumulative GPA is between 3.00-3.49
+cuml_gpa	5	cumulative GPA is above 3.49
+discuss	1	thinks that the discussion never improves the interest and success in the course
+discuss	2	thinks that the discussion sometimes improves the interest and success in the course
+discuss	3	thinks that the discussion always improves the interest and success in the course
+exp_gpa	1	expected Cumulative GPA is below 2.00
+exp_gpa	2	expected Cumulative GPA is between 2.00-2.49
+exp_gpa	3	expected Cumulative GPA is between 2.50-2.99
+exp_gpa	4	expected Cumulative GPA is between 3.00-3.49
+exp_gpa	5	expected Cumulative GPA is above 3.49
+father_edu	1	father has a primary school education
+father_edu	2	father has a secondary school education
+father_edu	3	father has a high school education
+father_edu	4	father has a university degree
+father_edu	5	father has a Master of Science degree
+father_edu	6	father has a Ph.D. degree
+father_job	1	father is retired
+father_job	2	father is a government officer
+father_job	3	father works in the private sector
+father_job	4	father is self-employed
+father_job	5	father has other occupation than retiring, government officer, private sector, or self-employment
+gender	1	female
+gender	2	male
+grade	0	Fail
+grade	1	DD
+grade	2	DC
+grade	3	CC
+grade	4	CB
+grade	5	BB
+grade	6	BA
+grade	7	AA
+highschool	1	private high-school
+highschool	2	state high-school
+highschool	3	high-school other than private or state high-school
+impact_project	1	has a positive attitude on the impact of the projects/activities on the success
+impact_project	2	has a negative attitude on the impact of the projects/activities on the success
+impact_project	3	has a neutral attitude on the impact of the projects/activities on the success
+listen	1	never actively listens in classes
+listen	2	sometimes actively listens in classes
+listen	3	always actively listens in classes
+living	1	rents accommodation in Cyprus
+living	2	lives in a dormitory
+living	3	lives with family in Cyprus
+living	4	lives in other places instead of renting, dormitory or living with family in Cyprus
+mother_edu	1	mother has a primary school education
+mother_edu	2	mother has a secondary school education
+mother_edu	3	mother has a high school education
+mother_edu	4	mother has a university degree
+mother_edu	5	mother has a Master of Science degree
+mother_edu	6	mother has a Ph.D. degree
+mother_job	1	mother is retired
+mother_job	2	mother is a housewife
+mother_job	3	mother is a government officer
+mother_job	4	mother works in the private sector
+mother_job	5	mother is self-employed
+mother_job	6	mother has other occupation than retiring, housewife, government officer, private sector, or self-employment
+note	1	never takes notes in classes
+note	2	sometimes takes notes in classes
+note	3	always takes notes in classes
+parental_status	1	parents are married
+parental_status	2	parents are divorced
+parental_status	3	one or both parents have passed away
+partner	1	has a partner
+partner	2	does not have a partner
+prep_exam	1	usually prepares for exams closest to the exam date
+prep_exam	2	usually regularly prepares for exams during the semester
+prep_exam	3	usually does not prepare for exams
+prep_study	1	usually prepares for midterm exams alone
+prep_study	2	usually prepares for midterm exams with friends
+prep_study	3	
+read_freq_no_sci	1	has no reading of non-scientific books/journals
+read_freq_no_sci	2	sometimes reads non-scientific books/journals
+read_freq_no_sci	3	often reads non-scientific books/journals
+read_freq_sci	1	has no reading of scientific books/journals
+read_freq_sci	2	sometimes reads scientific books/journals
+read_freq_sci	3	often reads scientific books/journals
+salary	1	from 135 to 200 USD
+salary	2	from 201 to 270 USD
+salary	3	from 271 to 340 USD
+salary	4	from 341 to 410 USD
+salary	5	above 410 USD
+scholarship	1	No scholarship
+scholarship	2	25% scholarship
+scholarship	3	50% scholarship
+scholarship	4	75% scholarship
+scholarship	5	Full scholarship
+sibling_num	1	has 1 sibling
+sibling_num	2	has 2 siblings
+sibling_num	3	has 3 siblings
+sibling_num	4	has 4 siblings
+sibling_num	5	has 5 or more siblings
+study_hour	1	has no weekly study hours
+study_hour	2	has less than 5 hours of weekly study
+study_hour	3	has 6-10 hours of weekly study
+study_hour	4	has 11-20 hours of weekly study
+study_hour	5	has more than 20 hours of weekly study
+transport	1	takes the bus to the university
+transport	2	uses a private car or taxi to the university
+transport	3	rides a bicycle to the university
+transport	4	uses other transportation than bus/car/bicycle to the university
+work	1	works while studying
+work	2	does not work while studying
