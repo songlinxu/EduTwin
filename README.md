@@ -11,7 +11,7 @@ Note: Prepare your own openAI API key if you want to run the study.
 
 ### Experiment 1
 
-- Run study: use code run_study1.py in folder "study1". (You need to add your OpenAI API Key in line 632 in ./study1/utils.py)
+- Run study: use code run_study1.py in folder "study1". (You need to add your OpenAI API Key in line 667 in ./study1/utils.py)
 - Draw result figures in the paper: use code figure.py in folder "study1".
 
 ### Experiment 2
@@ -26,5 +26,5 @@ Note: Prepare your own openAI API key if you want to run the study.
 
 ### Experiment 6
 
-- Run study: use code baseline_new.py in folder "study4". (You need to add your OpenAI API Key in line xx in ./study3/utils.py)
+- Run study: use code baseline_new.py in folder "study4". 
 - Draw result figures in the paper: use code figure_paper.py in folder "study4".
