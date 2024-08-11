@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the code implementation for experiment running and figure drawing in the paper: "Leveraging generative artificial intelligence to simulate student learning behavior".
+This is the code implementation for experiment running and figure drawing in the paper: "Exploring Human-AI alignment in dynamics of student behaviors and learning success".
 
 
 ## Instruction
