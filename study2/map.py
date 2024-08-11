@@ -95,13 +95,18 @@ def draw_map_result(result_path,LAD_csv,geo_json,datatype):
                            locations='LAD',
                            color='Value',
                            featureidkey="properties.LAD21NM",
-                           color_continuous_scale="Viridis", # Viridis
+                           color_continuous_scale="Blues", # Viridis
                            mapbox_style="white-bg",
                            center={"lat": 55.09621, "lon": -4.0286298},
                            zoom=4.3,
                            labels={'val':'value'})
 
-    fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+    fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0},coloraxis_colorbar=dict(
+        x=0.85,
+        tickfont=dict(
+            size=24  # Set the font size to your desired value
+        )
+    ))
 
     # fig.write_html('plot.html', auto_open=True) 
     fig.write_image('map_'+datatype+'.pdf')
@@ -112,5 +117,5 @@ def draw_map_result(result_path,LAD_csv,geo_json,datatype):
 # https://www.ons.gov.uk/census/2011census/2011censusdata
 # http://webarchive.nationalarchives.gov.uk/20160110193526/http:/data.statistics.gov.uk/Census/BulkdatadetailedcharacteristicsmergedwardspluslaandregE&Wandinfo3.3.zip
 # dataset UK info source: https://public.opendatasoft.com/explore/dataset/georef-united-kingdom-local-authority-district/table/?flg=en-us&disjunctive.ctry_code&disjunctive.ctry_name&disjunctive.rgn_code&disjunctive.rgn_name&disjunctive.ctyua_code&disjunctive.ctyua_name&disjunctive.lad_code&disjunctive.lad_name
-## datatype in ['student_num','imd_band','avg_assessment','label_score','predict_score']
-# draw_map_result('result_concatenate_geo.csv','datasets/LAD_UK.csv','datasets/LAD.json','predict_score')
+## datatype in ['imd_band','label_score','predict_score']
+draw_map_result('result_concatenate_geo.csv','datasets/LAD_UK.csv','datasets/LAD.json',datatype='imd_band')
