@@ -166,17 +166,6 @@ def calculate_corr(data,target_factor):
 
     return pearson_r_dict
 
-def compare_distribution_assessment(result_file):
-    dataset = pd.read_csv(result_file) 
-    dataset = dataset.dropna()
-    dataset['past_score_raw'] = dataset['past_scores'].apply(_get_value_from_str)
-    past_score_arr = np.array(dataset['past_score_raw'])
-    p_max, p_min = np.max(past_score_arr), np.min(past_score_arr)
-    print(p_max, p_min)
-    dataset['past_score_value'] = dataset['past_score_raw'].apply(func_discretize_assessment)
-    sns.barplot(data=dataset,x='score_type',y='score_item',hue='past_score_value')
-    plt.show()
-
 
 def _change_score_name(raw_name):
     name_dict = {'predict_score_both': 'Both', 'predict_score_past': 'Past', 'predict_score_persona': 'persona','label_score': 'Human','predict_score_past_1': '1','predict_score_past_2': '2', 'predict_score_past_3': '3', 'predict_score_past_4': '4', 'predict_score_past_5': '5'}
