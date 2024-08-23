@@ -486,7 +486,7 @@ def f6_main(question_item_result_path,pupil_result_path,question_avg_result_path
     ax51.text(-0.85, 1, 'c', fontsize=20, color='black')
     ax51_x_axis = np.arange(0, 6, 1)
     ax51.set_xticks(ax51_x_axis)
-    tick_label_dict = {0:'$Low_{Understanding}$',1:'$High_{Understanding}$',2:'$Low_{PreTest}$',3:'$Low_{PreTest}$',4:'$Low_{Engagement}$',5:'$Low_{Engagement}$'}
+    tick_label_dict = {0:'$Low_{Understanding}$',1:'$High_{Understanding}$',2:'$Weak_{PreTest}$',3:'$Strong_{PreTest}$',4:'$Low_{Engagement}$',5:'$High_{Engagement}$'}
     ax51.set_xticklabels([tick_label_dict.get(x_i, str(x_i)) for x_i in ax51_x_axis],fontsize=7)
     ax51.set_xlabel('')
     ax51.set_ylabel('Post-Test Score')
@@ -630,6 +630,5 @@ def f6_main(question_item_result_path,pupil_result_path,question_avg_result_path
 
 # main text figure
 
-f4_main('result_node.csv',fontsize=14)
+# f4_main('result_node.csv',fontsize=14)
 f6_main('result_question_item.csv','datasets/student_result.csv','result_question_avg.csv','birth')
-
