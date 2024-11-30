@@ -1,8 +1,8 @@
-# Exploring Human-AI alignment in dynamics of student behaviors and learning success
+# Generative artificial intelligence captures aligned student behavioral dynamics and learning success
 
 ## Introduction
 
-This is the code implementation for experiment running and figure drawing in the paper: "Exploring Human-AI alignment in dynamics of student behaviors and learning success".
+This is the code implementation for experiment running and figure drawing in the paper: "Generative artificial intelligence captures aligned student behavioral dynamics and learning success".
 
 
 ## Instruction
