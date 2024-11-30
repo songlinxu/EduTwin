@@ -28,3 +28,14 @@ Note: Prepare your own openAI API key if you want to run the study.
 
 - Run study: use code baseline_new.py in folder "study4". 
 - Draw result figures in the paper: use code figure_paper.py in folder "study4".
+
+
+## Cite Us
+```bibtex
+@article{xu2023leveraging,
+  title={Leveraging generative artificial intelligence to simulate student learning behavior},
+  author={Xu, Songlin and Zhang, Xinyu},
+  journal={arXiv preprint arXiv:2310.19206},
+  year={2023}
+}
+```
